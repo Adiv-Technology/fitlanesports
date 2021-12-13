@@ -72,6 +72,10 @@ body {padding-right: 0px !important;}
 /*//////////////////////////////////////////////////////////////////
 [ Form ]*/
 
+.how-btn:hover {
+  color: #fff !important;
+}
+
 .contact100-form {
   width: 100%;
 }
