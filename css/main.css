@@ -31,6 +31,9 @@ Primary use:
   src: url('../fonts/Montserrat/Montserrat-Bold.ttf'); 
 }
 
+.location-mar,.contact-1 {
+  display: none !important;
+}
 
 /*//////////////////////////////////////////////////////////////////
 [ RS PLUGIN ]*/
